@@ -129,7 +129,7 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  text-transform: capitalize;
+  background-color: #fff;
 }
 
 .port-name {
