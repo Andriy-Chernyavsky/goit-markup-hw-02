@@ -103,6 +103,11 @@ ol {
 .team {
   background-color: #f4f4fd;
 }
+
+.pidpys {
+  background-color: #fff;
+}
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -120,7 +125,6 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background-color: #fff;
 }
 
 .place {
