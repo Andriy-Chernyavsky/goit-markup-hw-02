@@ -120,8 +120,7 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background-color: #FFFFFF
-  text-transform: capitalize;
+  background-color: #fff;
 }
 
 .place {
@@ -130,7 +129,6 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  background-color: #FFFFFF
   text-transform: capitalize;
 }
 
