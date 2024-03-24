@@ -99,7 +99,8 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.Komanda {
+
+.team {
   background-color: #f4f4fd;
 }
 .team-title {
@@ -119,7 +120,8 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background-color: #ffffff;
+  background-color: #FFFFFF
+  text-transform: capitalize;
 }
 
 .place {
@@ -128,7 +130,8 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  background-color: #ffffff;
+  background-color: #FFFFFF
+  text-transform: capitalize;
 }
 
 .port-name {
